@@ -1,0 +1,3 @@
+python ObtenerImagenesBot.py
+PAUSE
+
