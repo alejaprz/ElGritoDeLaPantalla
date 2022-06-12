@@ -6,3 +6,4 @@ Contiene un archivo gráfico que recoge 141 imágenes compartidas por más de 25
 
 Este es el repositorio del proyecto realizado por Alejandra Pérez Torres, en el marco de la maestría en Humanidades Digitales de la Universidad de Los Andes.
 
+Contacto: przaleja@gmail.com
