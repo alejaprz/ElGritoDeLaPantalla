@@ -4,7 +4,7 @@ Se sugiere descargar la carpeta completa y seguir estos pasos:
 
 1. En la carpeta instalación encontrará el archivo "Instalar paquetes". Este debe ser ejecutado como administrador en su computador. Si no se logra la instalación de esta manera, debe instalar los requirements manualmente. 
 2. Una vez instalados los paquetes, debe editar el archivo "denunciayprotesta" Python file y en el apartado de configuración debe incluir el enlace al API, así como el key para hacer las consultas. También podrá modificar el nombre del archivo de excel en caso de que vaya a usar uno con nombre diferente. 
-3. En el archivo "denunciayprotesta" de excel debe mantener diligenciada la columna Query Image, pues es de allí de donde se tomará la imagen para realizar consultas. 
+3. En el archivo "denunciayprotesta" de excel debe mantener diligenciada la columna Query Image, pues es de allí de donde se tomará la imagen para realizar consultas. Aquí se encuentra la documentación del API: https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/overview-image-analysis
 4. Cuando todos estos pasos están cubiertos puede ejecutar el archivo "Ejecutarbot". 
 5. AL finalizar la ejecución del bot, se creará un archivo llamado "denunciayprotestaprocesado". 
 
