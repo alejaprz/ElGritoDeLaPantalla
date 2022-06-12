@@ -1,1 +1,11 @@
+En esta carpeta se encuentran los archivos necesarios para la instalación del ObtenerImagenesBot que permitirá descargar en su computador imágenes alojadas en Instagram. 
 
+Se sugiere descargar la carpeta completa y seguir estos pasos: 
+
+1. En la carpeta instalación encontrará el archivo "Instalar paquetes". Este debe ser ejecutado como administrador en su computador. Si no se logra la instalación de esta manera, debe instalar los requirements manualmente. 
+2. Una vez instalados los paquetes, puede editar el archivo alojado en la carpeta input llamado "imagenes". Allí debe diligenciar la columna "QueryImage" con las url de las imágenes que desea obtener. Aquí puede encontrar información sobre cómo obtener query image: https://www.surinderbhomra.com/Blog/2016/05/16/Resize-An-Instagram-Image-Using-A-Media-Query-Parameter
+3. En caso de que modifique el nombre del archivo alojado en la carpeta input, debe modificarlo también en "ObtenerImagenesBot" Python file en la sección de configuración. 
+4. Dentro de esta carpeta debe crear una carpeta adicional llamada Output. Allí se alojarán las imágenes una vez haya terminado la ejecución del bot. 
+5. Cuando todos estos pasos están cubiertos puede ejecutar el archivo "Ejecutarbot".  
+
+Nota: si tienes alguna duda o consulta, puedes escribirme a przaleja@gmail.com 
