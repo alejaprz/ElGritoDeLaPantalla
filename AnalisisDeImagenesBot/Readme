@@ -1,1 +1,11 @@
+En esta carpeta se encuentran los archivos necesarios para la instalación del AnalisisDeImágenesBot que permitirá realizar consultar al API de Image Analysis de Azure Cognetive Services desde su computador. 
 
+Se sugiere descargar la carpeta completa y seguir estos pasos: 
+
+1. En la carpeta instalación encontrará el archivo "Instalar paquetes". Este debe ser ejecutado como administrador en su computador. Si no se logra la instalación de esta manera, debe instalar los requirements manualmente. 
+2. Una vez instalados los paquetes, debe editar el archivo "denunciayprotesta" Python file y en el apartado de configuración debe incluir el enlace al API, así como el key para hacer las consultas. También podrá modificar el nombre del archivo de excel en caso de que vaya a usar uno con nombre diferente. 
+3. En el archivo "denunciayprotesta" de excel debe mantener diligenciada la columna Query Image, pues es de allí de donde se tomará la imagen para realizar consultas. 
+4. Cuando todos estos pasos están cubiertos puede ejecutar el archivo "Ejecutarbot". 
+5. AL finalizar la ejecución del bot, se creará un archivo llamado "denunciayprotestaprocesado". 
+
+Nota: si tienes alguna duda o consulta, puedes escribirme a przaleja@gmail.com 
