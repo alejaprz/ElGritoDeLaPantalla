@@ -1,0 +1,6 @@
+selenium
+pandas
+pyautogui
+pyperclip
+openpyxl
+pathlib
