@@ -1,0 +1,2 @@
+python denunciayprotesta.py
+PAUSE
