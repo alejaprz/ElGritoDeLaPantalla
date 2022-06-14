@@ -1,6 +1,6 @@
 # ElGritoDeLaPantalla
 
-Es proyecto digital que busca analizar, recuperar y hacer visible la imagen del activismo feminista en Instagram entre 2015 y 2020 en Colombia, con el ánimo de comprender el rol del lenguaje visual en el feminismo colombiano.
+Es proyecto digital que busca analizar, recuperar y hacer visible la imagen del activismo feminista en Instagram entre 2015 y 2020 en Colombia, con el ánimo de comprender el rol del lenguaje visual en el feminismo colombiano. Consulte el proyecto completo aquí: https://proyectoshd.uniandes.edu.co/elgritodelapantalla/ 
 
 Contiene un archivo gráfico que recoge 141 imágenes compartidas por más de 25 activistas, organizaciones, colectivos y colectivas feministas durante el período analizado. Además, comparte el conjunto de datos que analiza estas imágenes desde sus aspectos formales y contextuales. Así como los bots que permitieron recoger esta información. 
 
